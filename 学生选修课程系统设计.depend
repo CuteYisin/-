@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1546931496 source:f:\项溢馨\学生选修课程系统设计\main.cpp
+	<bits/stdc++.h>
+	"students.h"
+
+1546922237 f:\项溢馨\学生选修课程系统设计\students.h
+	<bits/stdc++.h>
+
+1546931496 source:f:\项溢馨\学生选修课程系统设计\students.cpp
+	<bits/stdc++.h>
+	"students.h"
+

@@ -1,0 +1,5 @@
+201801 Alice female 18 English 1801 85157207
+201802 Bob male 19 Chinese 1802 85137621
+201803 Candy male 18 English 1801 88989892
+201804 David female 18 Math 1803 85457356
+201805 Eve female 20 English 1802 85378022
